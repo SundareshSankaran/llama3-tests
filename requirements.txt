@@ -1,0 +1,4 @@
+pip
+ollama
+pandas
+swat
